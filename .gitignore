@@ -120,3 +120,6 @@ Octotree
 backend/public/profile/*
 backend/public/resume/*
 
+dummyData
+
+node_modules
